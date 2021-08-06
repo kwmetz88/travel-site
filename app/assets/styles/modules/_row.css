@@ -43,7 +43,7 @@
         &--large-9,
         &--large-10,
         &--large-11,
-        &--large-12, {
+        &--large-12 {
             grid-column: span 12;
         }
 
